@@ -1,5 +1,6 @@
 
-# MeigOT Network Analysis Tool
+# MeigOT “Mapping and Enumeration Tool for Industrial Governance in Operational Technology’’​
+​
 
 La herramienta MeigOT está diseñada para proporcionar capacidades de análisis y monitoreo en redes de tecnología operativa (OT). Facilita la identificación de dispositivos y protocolos, ofreciendo una valiosa perspectiva de la infraestructura de red.
 

@@ -4,7 +4,7 @@ import requests
 import logging
 import re
 from scapy.all import Ether, ARP, srp
-from config import COLORS  # Asegúrate de que esta importación sea correcta
+from config import COLORS  
 
 # Configuración de logging para reducir la verbosidad de Scapy
 logging.getLogger("scapy.runtime").setLevel(logging.ERROR)

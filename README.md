@@ -50,7 +50,7 @@ Esto garantizará que todas las bibliotecas externas necesarias estarán disponi
 Con las dependencias instaladas, puedes ejecutar el programa principal con:
 
 ```bash
-python main.py
+sudo python main.py
 ```
 
 Sigue las instrucciones en pantalla para navegar a través de las distintas funciones de la herramienta.

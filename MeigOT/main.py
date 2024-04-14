@@ -2,7 +2,6 @@ import asyncio
 from utilidades import print_status, solicitar_input
 from config import COLORS
 import re
-# Importaciones de tus módulos personalizados
 from reconocimiento import monitoreo_pasivo
 from arpscan import scan_subnet
 from escaneo_activo import realizar_escaneo_activo

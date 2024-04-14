@@ -2,7 +2,7 @@ import dns.resolver
 import dns.query
 import dns.zone
 import dns.exception
-from utilidades import print_status  # Utiliza la función personalizada que maneja los colores.
+from utilidades import print_status  
 
 def chequear_dnssec(dominio):
     """Chequea si DNSSEC está habilitado para el dominio proporcionado."""

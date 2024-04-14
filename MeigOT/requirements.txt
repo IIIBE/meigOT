@@ -1,1 +1,7 @@
+scapy==2.4.5
+snap7==0.11
+python-snap7==1.1
+pymodbus==2.5.3
+requests==2.26.0
+dnspython==2.1.0
 
